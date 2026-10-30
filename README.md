@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-lapla-si is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://lapla.si/
+Lapla SI builds small, well‑calibrated artificial intelligence models that run on hardware people already own. Their flagship projects include Gua, a computer‑use model for macOS, the Melix AI workspace for creative tasks, and SayIt, a native macOS dictation tool. By focusing on efficient, on‑device AI, Lapla SI enables developers and users to integrate intelligent features without relying on cloud services.
+
+**Areas:** AI · macOS · Productivity · Workspace · Dictation
+
+## lapla-si on APIs.io
+
+Everything profiled for lapla-si is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lapla-si/](https://apis.io/providers/lapla-si/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Lapla SI Primary API](https://apis.io/apis/lapla-si/lapla-si-primary-api/) — Primary API host for Lapla SI, no public OpenAPI spec available.
+- [Lapla SI Claimback MCP](https://apis.io/apis/lapla-si/lapla-si-claimback-mcp/) — MCP endpoint for claimback functionality.
+- [Lapla SI World MCP](https://apis.io/apis/lapla-si/lapla-si-world-mcp/) — MCP endpoint for world functionality.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lapla Si Authentication](https://apis.io/security/lapla-si/lapla-si-authentication/)
+- [Lapla Si Domain Security](https://apis.io/security/lapla-si/lapla-si-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Lapla Si Scopes](https://apis.io/scopes/lapla-si/lapla-si-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lapla.si/)
+- [Changelog](https://github.com/Keith-CY/sayit/releases/latest)
+- [Privacy policy](https://lapla.si/)
+
+## API Evangelist rating
+
+**Kin Score 11.6** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 70.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lapla-si/](https://apis.io/providers/lapla-si/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for lapla-si: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lapla-si/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
